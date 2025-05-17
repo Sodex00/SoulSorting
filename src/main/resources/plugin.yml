@@ -1,0 +1,5 @@
+main: com.main.SoulSorting
+version: 1.0
+name: SoulSorting
+author: SodeX
+api-version: 1.13
