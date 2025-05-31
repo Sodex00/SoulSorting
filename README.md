@@ -5,7 +5,7 @@
 Конструкция  
 ![конструкция](https://github.com/user-attachments/assets/62810ad6-30c3-4c39-83e9-be81c85d7f6f)
 
-Правельная и неправельная устоновка наблюдателя 
+Правильная и неправильная устоновка наблюдателя 
 ![установка](https://github.com/user-attachments/assets/b8e5fbc3-7479-4eb0-8cf3-4e5446c37cab)
 
 Пример  
