@@ -9,4 +9,4 @@
 ![установка](https://github.com/user-attachments/assets/b8e5fbc3-7479-4eb0-8cf3-4e5446c37cab)
 
 Пример  
-![пример](https://github.com/user-attachments/assets/121d4d98-e73b-415d-8a25-3bb094594e59)
+![пример](https://github.com/user-attachments/assets/dca86872-d3ae-47af-9741-155bb7dde0a9)
